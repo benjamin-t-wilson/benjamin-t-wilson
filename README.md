@@ -7,7 +7,7 @@ I take pride in being able to do as many things as possible. Not to be selfish, 
 #### Find me on --
 
 - [LinkedIn](https://www.linkedin.com/in/benjamin-t-wilson/)
-- [My website](<[https://btwicode.com/](https://btwicode.com/)>)
+- [My website](https://btwicode.com/](https://btwicode.com/)
 
 #### Languages & technologies --
 

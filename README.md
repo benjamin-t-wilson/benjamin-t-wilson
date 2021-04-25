@@ -24,3 +24,7 @@ I take pride in being able to do as many things as possible. Not to be selfish, 
 For years I have had a passion for building things. Everything from leather sheathes, holsters, and tool scabbards to knives, furniture, residential gates and even commercial structures. Coding gives me the ability to create anything I can imagine without any materials, physical labor, or even leaving my desk.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=benjamin-t-wilson)](https://github.com/anuraghazra/github-readme-stats)
+
+<script>
+  console.log("success")
+  </script>

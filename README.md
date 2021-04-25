@@ -25,6 +25,7 @@ For years I have had a passion for building things. Everything from leather shea
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=benjamin-t-wilson)](https://github.com/anuraghazra/github-readme-stats)
 
+
 <script>
-  console.log("success")
+  console.log("success");
   </script>

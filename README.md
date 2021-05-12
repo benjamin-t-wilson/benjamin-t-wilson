@@ -1,6 +1,6 @@
 ### Hey, my name is Ben, and I am a software engineer from AZ!
 
-Hello world! I am an AZ native born into nerd-dom. I built my first desktop when I was 8 and seems only fit that I get into coding eventually. In 2019 I started at Lambda School and very quickly became a leader to my peers, offering additional instruction to those who need it. My sense of community at the school has led me to accept the role of the Phoenix area MC, a position I held for a little over a year.
+Hello world! I am an AZ native born into nerd-dom. I built my first desktop when I was 8 and seems only fit that I get into coding eventually. In 2019 I started at Lambda School and very quickly became a leader to my peers, offering additional instruction to those who need it. Since then I have grown to accept multiple development positions, including my current as a Senior Software Engineer, as well as start my own community of practice, which I have co-hosted for over a year.
 
 I take pride in being able to do as many things as possible. Not to be selfish, but to make me as valuable as I can on a team. But have you ever gotten a quote on new counter tops? Yikes. I will do it myself.
 
